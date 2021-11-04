@@ -1,0 +1,18 @@
+{
+  "name": "react-input-hook",
+  "main": "./dist/index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "@types/uuid": "^8.3.1",
+    "typescript": "4.4.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
